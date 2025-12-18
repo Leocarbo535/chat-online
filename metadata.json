@@ -1,0 +1,5 @@
+{
+  "name": "WhatsChat",
+  "description": "A WhatsApp-inspired messaging application where you can chat with friends in real-time. Features Google Login and multi-tab synchronization.",
+  "requestFramePermissions": []
+}
